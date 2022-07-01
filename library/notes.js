@@ -12,8 +12,7 @@ function updateDb(id, notesArray) {
                     if (err) {
                         throw err;
                     }
-                }
-            );
+                });
         }
     }
 }
