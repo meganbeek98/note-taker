@@ -12,7 +12,7 @@ router.get('/notes', (req, res) => {
     res.send(404);
   }
 });
-
+// uuid npm package
 router.post('/notes', (req, res) => {
   req.body.id = uniUUID();
     const notes = createNewNote(req.body, newNotes);
