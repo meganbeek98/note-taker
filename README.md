@@ -17,8 +17,18 @@
 -----------------------------------------------------------------
 ## Screenshots:
 LANDING PAGE:
+<img src= "./images/SS-landing.png">
 
 NOTES PAGE:
+<img src= "./images/SS-notes-page.png">
+
+NOTE (IN-PROGRESS):
+<img src= "./images/SS-note-inProgress.png">
+
+NOTE (ADDED TO LIST): <br>
+
+<img src= "./images/SS-added-note.png">
+
 
 -----------------------------------------------------------------
 ## Deployment
