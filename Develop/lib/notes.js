@@ -27,3 +27,8 @@ function createNewNote(body, notesArray) {
     );
     return newNote;
 }
+
+module.exports = {
+    updateDb,
+    createNewNote,
+};
