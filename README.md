@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------
 
-## Description:
+## ABOUT:
     A simple app that uses Node.js and Express.js to take and save notes.
 
 -----------------------------------------------------------------
